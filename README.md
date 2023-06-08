@@ -1,0 +1,2 @@
+# Rindz
+Swahili sentiment analysis
